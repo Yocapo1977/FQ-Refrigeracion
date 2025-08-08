@@ -1,80 +1,50 @@
-# FQ-Refrigeracion
-App para técnicos y clientes de aires acondicionados 
-# FQ Refrigeración 📱❄️
+# FQ Refrigeración
 
-**Plataforma integral para servicios técnicos de aire acondicionado.**  
-Conectamos técnicos con clientes de forma rápida, profesional y eficiente.
+Plataforma profesional para servicios técnicos de aire acondicionado. Pensada para técnicos independientes y clientes que buscan rapidez, organización y confianza.
 
----
+## 🚀 Características
 
-## 🚀 ¿Qué es FQ Refrigeración?
+- Registro de técnicos y clientes
+- Panel personalizado según rol
+- Gestión de pedidos y estados
+- Notificaciones por WhatsApp
+- Diseño visual profesional y responsivo
+- Compatible con web y móvil
 
-FQ Refrigeración es una app móvil diseñada para técnicos de aire acondicionado que buscan organizar sus servicios, mejorar la atención al cliente y potenciar su presencia digital.
+## 📱 Capturas
 
-La plataforma incluye:
+![Inicio](screenshots/inicio.png)
+![Panel Cliente](screenshots/panel-cliente.png)
+![Panel Técnico](screenshots/panel-tecnico.png)
+![Estado Pedido](screenshots/estado-pedido.png)
+![Login](screenshots/login.png)
 
-- Registro de usuarios (técnicos y clientes)
-- Paneles personalizados según rol
-- Gestión de servicios y turnos
-- Diseño visual profesional y funcional
-- Publicación en Play Store y versión web
+## 💬 Testimonios
 
----
+> “La app me permitió organizar mis servicios sin depender de llamadas. Muy útil.”  
+> — Marcos, técnico independiente
 
-## 🖼️ Capturas de pantalla
+> “Pedí el servicio desde el celular y me atendieron el mismo día. Súper recomendable.”  
+> — Laura, cliente
 
-| Inicio | Panel Técnico | Panel Cliente |
-|-------|----------------|----------------|
-| ![Inicio](screenshots/inicio.png) | ![Técnico](screenshots/panel-tecnico.png) | ![Cliente](screenshots/panel-cliente.png) |
+## 📈 Modelo de negocio
 
----
-
-## 🛠️ Tecnologías utilizadas
-
-- **Flutter** (frontend móvil)
-- **Firebase** (auth, database, hosting)
-- **Dart** (lógica de negocio)
-- **HTML/CSS** (landing page)
-- **Figma** (diseño visual y mockups)
-
----
-
-## 📦 Instalación
-
-1. Clona el repositorio  
-   `git clone https://github.com/tuusuario/fq-refrigeracion.git`
-
-2. Instala dependencias  
-   `flutter pub get`
-
-3. Ejecuta la app  
-   `flutter run`
-
----
+| Plan | Funcionalidad | Precio sugerido |
+|------|----------------|-----------------|
+| Básico | Panel técnico + pedidos | $2.500/mes |
+| Pro | Estadísticas + soporte | $4.500/mes |
+| Premium | Todo incluido + landing personalizada | $7.000/mes |
 
 ## 📄 Documentación
 
-- [Presentación PDF](docs/presentacion.pdf)
-- [Landing Page](https://fq-refrigeracion.web.app)
-- [Política de privacidad](docs/politica-privacidad.pdf)
+- [`presentacion.pdf`](docs/presentacion.pdf)
+- [`politica-privacidad.pdf`](docs/politica-privacidad.pdf)
+- [`modelo-negocio.pdf`](docs/modelo-negocio.pdf)
+
+## 🌐 Landing Page
+
+Disponible en la carpeta `landing/` con diseño responsivo, beneficios, testimonios y formulario de contacto.
 
 ---
 
-## 💡 Próximos pasos
-
-- Panel administrativo web
-- Sistema de pagos y suscripciones
-- Expansión nacional e internacional
-- Integración con WhatsApp Business
-
----
-
-## 📬 Contacto
-
-**Christian — Fundador & Desarrollador**  
-📧 fq.refrigeracion@gmail.com  
-🌐 [fq-refrigeracion.web.app](https://fq-refrigeracion.web.app)
-
----
-
-> Este proyecto busca profesionalizar el trabajo técnico en refrigeración, ofreciendo herramientas digitales accesibles, modernas y escalables.
+¿Querés que te ayude a generar el `.zip` con esta estructura o que prepare los archivos para que los subas directamente desde tu PC? También puedo ayudarte a crear el repositorio desde cero si querés que lo hagamos juntos paso a paso. ¿Cómo preferís avanzar? 💪📦🧠
